@@ -1,16 +1,14 @@
-### Hi there 👋
+## Helo 👋
+Hi there, my name is Gamerexde (real name **Samuel**), I am from Puerto Rico.
 
-<!--
-**Gamerexde/gamerexde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to code *a lot*, my favorite lanugage is Kotlin and the things I do the most is web development, minecraft modding, or anything that I have interest on learning or making.
 
-Here are some ideas to get you started:
+I'm currently a Computer Science student.
+<hr>
+📮 Contact me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: Gamerexde#6969
+
+E-Mail: me@gamerexde.io
+<hr>
+Personal Website: https://www.gamerexde.io
