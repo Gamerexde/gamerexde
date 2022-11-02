@@ -1,7 +1,7 @@
 ## Helo 👋
 Hi there, my name is Gamerexde (real name **Samuel**), I am from Puerto Rico.
 
-I like to code *a lot*, my favorite lanugage is Kotlin and the things I do the most is web development, minecraft modding, or anything that I have interest on learning or making.
+I like to code *a lot*, my favorite lanugages are C#, Kotlin, Java (as last resort) and Rust. The things I do the most is web development, minecraft modding, or anything that I have interest on learning or making.
 
 I'm currently a Computer Science student.
 <hr>
