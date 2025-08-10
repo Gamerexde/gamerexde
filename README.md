@@ -14,3 +14,6 @@ Discord: **Gamerexde**
 Personal Website: https://www.gamerexde.io
 
 E-Mail: me@gamerexde.io
+
+
+<img src="https://wakapi.dev/api/activity/chart/Gamerexde.svg" alt="Wakapi Activity Chart" width="500"/>
